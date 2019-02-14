@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище DBModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="POINT">
+    <Key>
+      <PropertyRef Name="ID_ANSWER" />
+    </Key>
+    <Property Name="ID_ANSWER" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ID_Quest" Type="int" />
+    <Property Name="ANSWER" Type="nvarchar" MaxLength="50" />
+    <Property Name="POINT" Type="int" />
+  </EntityType>
+  <EntityType Name="QUESTION">
+    <Key>
+      <PropertyRef Name="ID_QUESTION" />
+    </Key>
+    <Property Name="ID_QUESTION" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ID_TEST" Type="int" />
+    <Property Name="QUESTION" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="RESULT">
+    <Key>
+      <PropertyRef Name="ID_Result" />
+    </Key>
+    <Property Name="ID_Result" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="ID_Test" Type="int" />
+    <Property Name="RESULT1" Type="int" />
+    <Property Name="RESULT2" Type="int" />
+    <Property Name="TEXT_RESULT" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="TEST">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="NAME_TEST" Type="nvarchar" MaxLength="50" />
+    <Property Name="AUTHOR" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="USER">
+    <Key>
+      <PropertyRef Name="LOGIN" />
+    </Key>
+    <Property Name="LOGIN" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="PASSWORD" Type="nvarchar" MaxLength="50" />
+    <Property Name="ACCESS" Type="int" />
+  </EntityType>
+  <Association Name="FK__POINT__ID_Quest__1F63A897">
+    <End Role="QUESTION" Type="Self.QUESTION" Multiplicity="0..1" />
+    <End Role="POINT" Type="Self.POINT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="QUESTION">
+        <PropertyRef Name="ID_QUESTION" />
+      </Principal>
+      <Dependent Role="POINT">
+        <PropertyRef Name="ID_Quest" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__QUESTION__ID_TES__1C873BEC">
+    <End Role="TEST" Type="Self.TEST" Multiplicity="0..1" />
+    <End Role="QUESTION" Type="Self.QUESTION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TEST">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="QUESTION">
+        <PropertyRef Name="ID_TEST" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__RESULT__ID_Test__22401542">
+    <End Role="TEST" Type="Self.TEST" Multiplicity="0..1" />
+    <End Role="RESULT" Type="Self.RESULT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TEST">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="RESULT">
+        <PropertyRef Name="ID_Test" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TEST__AUTHOR__18B6AB08">
+    <End Role="USER" Type="Self.USER" Multiplicity="0..1" />
+    <End Role="TEST" Type="Self.TEST" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="USER">
+        <PropertyRef Name="LOGIN" />
+      </Principal>
+      <Dependent Role="TEST">
+        <PropertyRef Name="AUTHOR" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище DBModelContainer">
+    <EntitySet Name="POINT" EntityType="Self.POINT" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="QUESTION" EntityType="Self.QUESTION" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RESULT" EntityType="Self.RESULT" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="TEST" EntityType="Self.TEST" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="USER" EntityType="Self.USER" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__POINT__ID_Quest__1F63A897" Association="Self.FK__POINT__ID_Quest__1F63A897">
+      <End Role="QUESTION" EntitySet="QUESTION" />
+      <End Role="POINT" EntitySet="POINT" />
+    </AssociationSet>
+    <AssociationSet Name="FK__QUESTION__ID_TES__1C873BEC" Association="Self.FK__QUESTION__ID_TES__1C873BEC">
+      <End Role="TEST" EntitySet="TEST" />
+      <End Role="QUESTION" EntitySet="QUESTION" />
+    </AssociationSet>
+    <AssociationSet Name="FK__RESULT__ID_Test__22401542" Association="Self.FK__RESULT__ID_Test__22401542">
+      <End Role="TEST" EntitySet="TEST" />
+      <End Role="RESULT" EntitySet="RESULT" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TEST__AUTHOR__18B6AB08" Association="Self.FK__TEST__AUTHOR__18B6AB08">
+      <End Role="USER" EntitySet="USER" />
+      <End Role="TEST" EntitySet="TEST" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

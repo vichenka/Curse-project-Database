@@ -1,0 +1,303 @@
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\bin\Debug\Test.exe.config
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\bin\Debug\Test.exe
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\bin\Debug\Test.pdb
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\MainWindow.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Registration.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\App.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Test_MarkupCompile.cache
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Test_MarkupCompile.lref
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\MainWindow.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Registration.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Test.g.resources
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Test.exe
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Test.pdb
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Login.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Login.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Style\Texts.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\App.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Menu.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Menu.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\bin\Debug\WpfAnimatedGif.dll
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\bin\Debug\WpfAnimatedGif.xml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\bin\Debug\EntityFramework.dll
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\bin\Debug\EntityFramework.xml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\bin\Debug\DB.mdf
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\bin\Debug\DB_log.ldf
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Test_Content.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\bin\Debug\MySql.Data.dll
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\bin\Debug\MySql.Data.xml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\MenuAdmin.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\MenuAdmin.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Tests.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Tests.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\UserTest.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\UserTest.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\About.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\About.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Result.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Result.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\DeleteUser.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\DeleteUser.baml
+E:\MyTEST\Test\Test\bin\Debug\Test.exe.config
+E:\MyTEST\Test\Test\bin\Debug\Test.exe
+E:\MyTEST\Test\Test\bin\Debug\Test.pdb
+E:\MyTEST\Test\Test\bin\Debug\EntityFramework.dll
+E:\MyTEST\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\MyTEST\Test\Test\bin\Debug\MySql.Data.dll
+E:\MyTEST\Test\Test\bin\Debug\WpfAnimatedGif.dll
+E:\MyTEST\Test\Test\bin\Debug\EntityFramework.xml
+E:\MyTEST\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\MyTEST\Test\Test\bin\Debug\MySql.Data.xml
+E:\MyTEST\Test\Test\bin\Debug\WpfAnimatedGif.xml
+E:\MyTEST\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\MyTEST\Test\Test\obj\Debug\Style\Texts.baml
+E:\MyTEST\Test\Test\obj\Debug\About.g.cs
+E:\MyTEST\Test\Test\obj\Debug\DeleteUser.g.cs
+E:\MyTEST\Test\Test\obj\Debug\Login.g.cs
+E:\MyTEST\Test\Test\obj\Debug\MainWindow.g.cs
+E:\MyTEST\Test\Test\obj\Debug\Menu.g.cs
+E:\MyTEST\Test\Test\obj\Debug\MenuAdmin.g.cs
+E:\MyTEST\Test\Test\obj\Debug\Registration.g.cs
+E:\MyTEST\Test\Test\obj\Debug\Result.g.cs
+E:\MyTEST\Test\Test\obj\Debug\Tests.g.cs
+E:\MyTEST\Test\Test\obj\Debug\UserTest.g.cs
+E:\MyTEST\Test\Test\obj\Debug\App.g.cs
+E:\MyTEST\Test\Test\obj\Debug\Test_Content.g.cs
+E:\MyTEST\Test\Test\obj\Debug\Test_MarkupCompile.cache
+E:\MyTEST\Test\Test\obj\Debug\Test_MarkupCompile.lref
+E:\MyTEST\Test\Test\obj\Debug\App.baml
+E:\MyTEST\Test\Test\obj\Debug\About.baml
+E:\MyTEST\Test\Test\obj\Debug\DeleteUser.baml
+E:\MyTEST\Test\Test\obj\Debug\Login.baml
+E:\MyTEST\Test\Test\obj\Debug\MainWindow.baml
+E:\MyTEST\Test\Test\obj\Debug\Menu.baml
+E:\MyTEST\Test\Test\obj\Debug\MenuAdmin.baml
+E:\MyTEST\Test\Test\obj\Debug\Registration.baml
+E:\MyTEST\Test\Test\obj\Debug\Result.baml
+E:\MyTEST\Test\Test\obj\Debug\Tests.baml
+E:\MyTEST\Test\Test\obj\Debug\UserTest.baml
+E:\MyTEST\Test\Test\obj\Debug\Test.g.resources
+E:\MyTEST\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\MyTEST\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\MyTEST\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\MyTEST\Test\Test\obj\Debug\Test.exe
+E:\MyTEST\Test\Test\obj\Debug\Test.pdb
+E:\MyTEST\Test\Test\obj\Debug\CreateTest.g.cs
+E:\MyTEST\Test\Test\obj\Debug\CreateTest.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\CreateTest.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\CreateTest.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\MyTEST\Test\Test\obj\Debug\Style\Butt.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\bin\Debug\DB.mdf
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\bin\Debug\DB_log.ldf
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\bin\Debug\Test.exe.config
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\bin\Debug\Test.exe
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\bin\Debug\Test.pdb
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\bin\Debug\EntityFramework.dll
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\bin\Debug\MySql.Data.dll
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\bin\Debug\WpfAnimatedGif.dll
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\bin\Debug\EntityFramework.xml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\bin\Debug\MySql.Data.xml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\bin\Debug\WpfAnimatedGif.xml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Style\Texts.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\About.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\CreateTest.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\DeleteUser.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Login.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\MainWindow.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Menu.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\MenuAdmin.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Registration.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Result.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Tests.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\UserTest.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\App.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Test_Content.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Test_MarkupCompile.cache
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Test_MarkupCompile.lref
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\App.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\About.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\CreateTest.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\DeleteUser.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Login.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\MainWindow.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Menu.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\MenuAdmin.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Registration.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Result.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Style\Butt.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Tests.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\UserTest.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Test.g.resources
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Test.exe
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЁ РАБОЧЕЕ\MyTEST\Test\Test\obj\Debug\Test.pdb
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\DB.mdf
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\DB_log.ldf
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\Test.exe.config
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\Test.exe
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\Test.pdb
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\EntityFramework.dll
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\MySql.Data.dll
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\WpfAnimatedGif.dll
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\EntityFramework.xml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\MySql.Data.xml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\WpfAnimatedGif.xml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Style\Texts.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\About.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\CreateTest.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\DeleteUser.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Login.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\MainWindow.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Menu.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\MenuAdmin.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Registration.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Result.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Tests.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\UserTest.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\App.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test_Content.g.cs
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test_MarkupCompile.cache
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test_MarkupCompile.lref
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\App.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\About.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\CreateTest.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\DeleteUser.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Login.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\MainWindow.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Menu.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\MenuAdmin.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Registration.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Result.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Style\Butt.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Tests.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\UserTest.baml
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test.g.resources
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test.exe
+E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test.pdb
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\DB.mdf
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\DB_log.ldf
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\Test.exe.config
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\Test.exe
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\Test.pdb
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\EntityFramework.dll
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\MySql.Data.dll
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\WpfAnimatedGif.dll
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\EntityFramework.xml
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\MySql.Data.xml
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\bin\Debug\WpfAnimatedGif.xml
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Style\Texts.baml
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\About.g.cs
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\CreateTest.g.cs
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\DeleteUser.g.cs
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Login.g.cs
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\MainWindow.g.cs
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Menu.g.cs
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\MenuAdmin.g.cs
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Registration.g.cs
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Result.g.cs
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Tests.g.cs
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\UserTest.g.cs
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\App.g.cs
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test_Content.g.cs
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test_MarkupCompile.cache
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test_MarkupCompile.lref
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\App.baml
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\About.baml
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\CreateTest.baml
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\DeleteUser.baml
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Login.baml
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\MainWindow.baml
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Menu.baml
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\MenuAdmin.baml
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Registration.baml
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Result.baml
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Style\Butt.baml
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Tests.baml
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\UserTest.baml
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test.g.resources
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test.csproj.GenerateResource.cache
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test.csproj.CopyComplete
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test.exe
+E:\МОЙ РАБОЧИЙ\MyTEST\Test\Test\obj\Debug\Test.pdb
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\bin\Debug\Test.exe.config
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\bin\Debug\Test.exe
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\bin\Debug\Test.pdb
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\bin\Debug\EntityFramework.dll
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\bin\Debug\EntityFramework.SqlServer.dll
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\bin\Debug\MySql.Data.dll
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\bin\Debug\WpfAnimatedGif.dll
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\bin\Debug\EntityFramework.xml
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\bin\Debug\EntityFramework.SqlServer.xml
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\bin\Debug\MySql.Data.xml
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\bin\Debug\WpfAnimatedGif.xml
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Style\Texts.baml
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\About.g.cs
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\CreateTest.g.cs
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\DeleteUser.g.cs
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Login.g.cs
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\MainWindow.g.cs
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Menu.g.cs
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\MenuAdmin.g.cs
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Registration.g.cs
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Result.g.cs
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Tests.g.cs
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\UserTest.g.cs
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\App.g.cs
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Test_Content.g.cs
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Test_MarkupCompile.cache
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Test_MarkupCompile.lref
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\App.baml
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\About.baml
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\CreateTest.baml
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\DeleteUser.baml
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Login.baml
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\MainWindow.baml
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Menu.baml
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\MenuAdmin.baml
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Registration.baml
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Result.baml
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Style\Butt.baml
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Tests.baml
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\UserTest.baml
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Test.g.resources
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Test.Properties.Resources.resources
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Test.exe
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Test.pdb
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\History.g.cs
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\History.baml
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\HistoyText.g.cs
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\HistoyText.baml
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Search.g.cs
+E:\РАБОЧЕЕ\3 КУРС 1 СЕМ\3 курс 1 семестр\МОЙ КУРСАЧ\MyTEST\Test\Test\obj\Debug\Search.baml
+E:\MyTEST\Test\Test\obj\Debug\Search.g.cs
+E:\MyTEST\Test\Test\obj\Debug\History.g.cs
+E:\MyTEST\Test\Test\obj\Debug\HistoyText.g.cs
+E:\MyTEST\Test\Test\obj\Debug\Search.baml
+E:\MyTEST\Test\Test\obj\Debug\History.baml
+E:\MyTEST\Test\Test\obj\Debug\HistoyText.baml
+E:\MyTEST\Test\Test\obj\Debug\Style\Butt.baml

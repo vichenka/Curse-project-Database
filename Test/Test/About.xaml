@@ -1,0 +1,26 @@
+﻿<Window x:Class="Test.About"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Test"
+        mc:Ignorable="d"
+       Title="About" Icon="images\icon\quest.ico"  Window.WindowStyle="None"  Height="432.571" Width="555.142" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <ImageBrush ImageSource="images\fon3.JPG" Stretch="UniformToFill"  TileMode="None" Opacity="0.5" />
+    </Window.Background>
+    <Grid Margin="0,0,0.2,-0.2" Height="433" VerticalAlignment="Top">
+
+
+
+        <TextBox Name="text" VerticalScrollBarVisibility="Auto" IsReadOnly="True" TextWrapping="Wrap" AcceptsReturn="True" Text="Hi! It's app 'Tests'. &#10;© Savenko A.V. 2018" FontFamily="Calabri"  FontSize="23"
+                        
+                         Style="{StaticResource text}" BorderThickness="1 1 1 1" Foreground="White" 
+                           MouseEnter="text_MouseMove" 
+                               MouseLeave="text_MouseLeave"
+                         Margin="151,141,153,165" Background="Transparent"  />
+        <Image MouseLeftButtonDown="Image_MouseLeftButtonDown_two" Height="20" Width="20" Source="images/icon/Back.png" Margin="485,8,50,405" />
+        <Image MouseLeftButtonDown="Image_MouseLeftButtonDown_one" Height="20" Width="20" Source="images/icon/roll_32.png" Margin="505,8,30,405"    />
+        <Image MouseLeftButtonDown="Image_MouseLeftButtonDown"  Height="20" Width="20" Source="images/icon/close_32.png" Margin="525,8,10,405"  />
+    </Grid>
+</Window>

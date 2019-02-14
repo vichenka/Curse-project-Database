@@ -1,0 +1,83 @@
+USE [KP] 
+GO
+
+delete from [HISTORY];
+delete from [RESULT];
+delete from [POINT];
+delete from [QUESTION];
+delete from [TEST];
+
+select * from [dbo].[TEST];
+
+select * from RESULT;
+select * from POINT;
+
+DROP TABLE [HISTORY];
+DROP TABLE [dbo].[RESULT];
+DROP TABLE [dbo].[POINT];
+DROP TABLE [dbo].[QUESTION];
+DROP TABLE [dbo].[TEST];
+
+CREATE TABLE [dbo].[USER] (
+    [LOGIN]    NVARCHAR (50) NOT NULL,
+    [PASSWORD] NVARCHAR (50) NULL,
+    [ACCESS]   INT           NULL,
+    CONSTRAINT [PK_USER] PRIMARY KEY CLUSTERED ([LOGIN] ASC)
+);
+
+CREATE TABLE [dbo].[TEST] (
+    [ID]        INT           IDENTITY (1, 1) NOT NULL,
+    [NAME_TEST] NVARCHAR (50) NOT NULL,
+    [AUTHOR]    NVARCHAR (50) NULL,
+	[ID_TYPE]        INT  ,
+    PRIMARY KEY CLUSTERED ([ID] ASC),
+    FOREIGN KEY ([AUTHOR]) REFERENCES [dbo].[USER] ([LOGIN]),
+	FOREIGN KEY ([ID_TYPE]) REFERENCES [dbo].[TYPE] ([ID])
+);
+ALTER TABLE [dbo].[TEST] ALTER COLUMN [NAME_TEST] NVARCHAR (50) NOT NULL;
+
+CREATE TABLE [dbo].[TYPE] (
+    [ID]        INT           IDENTITY (1, 1) NOT NULL,
+    [NAME_TYPE] NVARCHAR (50),
+    PRIMARY KEY CLUSTERED ([ID] ASC)   
+);
+
+CREATE TABLE [dbo].[QUESTION] (
+    [ID_QUESTION] INT           IDENTITY (1, 1) NOT NULL,
+    [ID_TEST]     INT           NULL,
+    [QUESTION]    NVARCHAR (50) NULL,
+    PRIMARY KEY CLUSTERED ([ID_QUESTION] ASC),
+    FOREIGN KEY ([ID_TEST]) REFERENCES [dbo].[TEST] ([ID])
+);
+
+CREATE TABLE [dbo].[POINT] (
+    [ID_ANSWER] INT           IDENTITY (1, 1) NOT NULL,
+    [ID_Quest]  INT           NULL,
+    [ANSWER]    NVARCHAR (50) NULL,
+    [POINT]     INT           NULL,
+    PRIMARY KEY CLUSTERED ([ID_ANSWER] ASC),
+    FOREIGN KEY ([ID_Quest]) REFERENCES [dbo].[QUESTION] ([ID_QUESTION])
+);
+
+CREATE TABLE [dbo].[RESULT] (
+    [ID_Result]   INT           IDENTITY (1, 1) NOT NULL,
+    [ID_Test]     INT           NULL,
+    [RESULT1]     INT           NULL,
+    [RESULT2]     INT           NULL,
+    [TEXT_RESULT] NVARCHAR (50) NULL,
+    PRIMARY KEY CLUSTERED ([ID_Result] ASC),
+    FOREIGN KEY ([ID_Test]) REFERENCES [dbo].[TEST] ([ID])
+);
+ 
+CREATE TABLE [dbo].[HISTORY] (
+    [ID] INT           IDENTITY (1, 1) NOT NULL,
+    [ID_USER]  NVARCHAR (50) NOT NULL,
+    [ID_RESULTH]    INT NULL,
+	[ID_TYPE] INT NULL,
+    PRIMARY KEY CLUSTERED ([ID] ASC),
+    FOREIGN KEY ([ID_USER]) REFERENCES [dbo].[USER] ([LOGIN]),
+	FOREIGN KEY ([ID_TYPE]) REFERENCES [dbo].[TYPE] ([ID])
+);
+
+ALTER TABLE [USER]
+ADD CONSTRAINT CountryUQ UNIQUE ([LOGIN]);

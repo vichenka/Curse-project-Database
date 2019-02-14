@@ -1,0 +1,156 @@
+﻿<Window x:Class="Test.Menu"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+         xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        xmlns:local="clr-namespace:Test"
+        mc:Ignorable="d"
+        
+        Title="Menu" Icon="images\icon\quest.ico"  Window.WindowStyle="None"  Height="540" Width="550" ResizeMode="NoResize" WindowStartupLocation="CenterScreen">
+    <Window.Background>
+        <ImageBrush ImageSource="images\fon3.JPG" Stretch="UniformToFill"  TileMode="None" Opacity="0.5" />
+    </Window.Background>
+    <Grid>
+        <Border Background="Transparent" Margin="10,20,10,24.4">
+            <DockPanel>
+                <Label Content="Menu" Foreground="White" FontSize="35" HorizontalAlignment="Center" FontFamily="Impact" Width="450" Margin="5,0,-10,10"/>
+                <TextBox Name="text" VerticalScrollBarVisibility="Auto" IsReadOnly="True" TextWrapping="Wrap" AcceptsReturn="True" Text="Welcome to the application for creating and passing funny tests" FontFamily="Calabri"  FontSize="23"
+                        
+                         Style="{StaticResource text}" BorderThickness="1 1 1 1" Foreground="White" 
+                           MouseEnter="text_MouseMove" 
+                               MouseLeave="text_MouseLeave"
+                         Margin="-180,50,-14,310" Width="236" Background="Transparent"   />
+                <StackPanel Background="#FFF0DFF0" Width="217" Margin="-1100,90,0,107">
+                    <StackPanel.Style>
+                        <Style TargetType="StackPanel">
+                            <Style.Triggers>
+
+                                <EventTrigger RoutedEvent="MouseEnter">
+                                    <EventTrigger.Actions>
+                                        <BeginStoryboard>
+                                            <Storyboard>
+                                                <ThicknessAnimation Storyboard.TargetProperty="Margin" From="-1100 90 0 107" To="-750 90 0 107" DecelerationRatio=".9" Duration="0:0:0.7"/>
+                                            </Storyboard>
+                                        </BeginStoryboard>
+                                    </EventTrigger.Actions>
+                                </EventTrigger>
+                                <EventTrigger RoutedEvent="MouseLeave">
+                                    <EventTrigger.Actions>
+                                        <BeginStoryboard>
+                                            <Storyboard>
+                                                <ThicknessAnimation Storyboard.TargetProperty="Margin" From="-750 90 0 107" To="-1100 90 0 107" DecelerationRatio=".9" Duration="0:0:0.10"/>
+                                            </Storyboard>
+                                        </BeginStoryboard>
+                                    </EventTrigger.Actions>
+                                </EventTrigger>
+                            </Style.Triggers>
+                        </Style>
+                    </StackPanel.Style>
+                    <DockPanel VerticalAlignment='Center' HorizontalAlignment="Center">
+                        <Label x:Name="label1" 
+                               FontFamily="Impact"
+                               MouseEnter="label1_MouseMove" 
+                               MouseLeave="label1_MouseLeave"
+                               MouseLeftButtonDown="Label1_MouseLeftButtonDown" 
+                               Content="Test" 
+                               FontSize="30" 
+                               Width="150" 
+                               Foreground="White" Height="59"/>
+                        <Image Source="images/menu_32.png" Width="36" Height="35" />
+                    </DockPanel>
+                    <Separator Margin="13,2,53.6,2" Background="#951ba3"></Separator>
+                    <DockPanel VerticalAlignment='Center' HorizontalAlignment="Center">
+                        <Label x:Name="label2"  ToolTip="Тесты" 
+                               FontFamily="Calibri"
+                               MouseLeftButtonDown="label2_MouseLeftButtonDown"
+                               MouseEnter="label2_MouseMove" 
+                               MouseLeave="label2_MouseLeave"
+                               Content="Tests" 
+                               FontSize="20" 
+                               Width="150" 
+                               Foreground="White"/>
+
+                    </DockPanel>
+                    <DockPanel VerticalAlignment='Center' HorizontalAlignment="Center">
+                        <Label x:Name="label3" ToolTip="Создание тестов"  
+                               FontFamily="Calibri"
+                               MouseLeftButtonDown="label3_MouseLeftButtonDown" 
+                             MouseEnter="label3_MouseMove" 
+                               MouseLeave="label3_MouseLeave"
+                               Content="Create test" 
+                               FontSize="20" 
+                               Width="150" 
+                               Foreground="White"/>
+
+                    </DockPanel>
+                    <!--<DockPanel VerticalAlignment='Center' HorizontalAlignment="Center">
+                        <Label x:Name="label4" ToolTip="Результаты тестов"   
+                               FontFamily="Calibri"
+                               MouseLeftButtonDown="label4_MouseLeftButtonDown" 
+                              MouseEnter="label4_MouseMove" 
+                               MouseLeave="label4_MouseLeave"
+                               Content="Test results" 
+                               FontSize="20" 
+                               Width="150" 
+                               Foreground="White"/>
+
+                    </DockPanel>-->
+
+                     <DockPanel VerticalAlignment='Center' HorizontalAlignment="Center">
+                        <Label x:Name="label6"   ToolTip="О программе"
+                               FontFamily="Calibri"
+                              MouseEnter="label6_MouseMove" 
+                               MouseLeave="label6_MouseLeave"
+                               MouseLeftButtonDown="label6_MouseLeftButtonDown" 
+                               Content="About" 
+                               FontSize="20" 
+                               Width="150" 
+                               Foreground="White"/>
+                    </DockPanel>
+
+                    <DockPanel VerticalAlignment='Center' HorizontalAlignment="Center">
+                        <Label x:Name="label8"   ToolTip="Поиск теста"
+                               FontFamily="Calibri"
+                              MouseEnter="label8_MouseMove" 
+                               MouseLeave="label8_MouseLeave"
+                               MouseLeftButtonDown="label8_MouseLeftButtonDown" 
+                               Content="Search" 
+                               FontSize="20" 
+                               Width="150" 
+                               Foreground="White"/>
+                    </DockPanel>
+
+                    <DockPanel VerticalAlignment='Center' HorizontalAlignment="Center">
+                        <Label x:Name="label9"   ToolTip="История"
+                               FontFamily="Calibri"
+                              MouseEnter="label9_MouseMove" 
+                               MouseLeave="label9_MouseLeave"
+                               MouseLeftButtonDown="label9_MouseLeftButtonDown" 
+                               Content="History" 
+                               FontSize="20" 
+                               Width="150" 
+                               Foreground="White"/>
+                    </DockPanel>
+
+                    <DockPanel VerticalAlignment='Center' HorizontalAlignment="Center">
+                        <Label x:Name="label7"  ToolTip="Выйти" 
+                               FontFamily="Calibri"
+                              MouseEnter="label7_MouseMove" 
+                               MouseLeave="label7_MouseLeave"
+                               MouseLeftButtonDown="label7_MouseLeftButtonDown"
+                               Content="Exit" 
+                               FontSize="20" 
+                               Width="150" 
+                               Foreground="White"/>
+                    </DockPanel>
+
+                </StackPanel>
+            </DockPanel>
+        </Border>
+        <Image MouseLeftButtonDown="Image_MouseLeftButtonDown_one"  Height="20" Width="20" Source="images/icon/roll_32.png"  Margin="503,8,28.4,512" />
+        <Image MouseLeftButtonDown="Image_MouseLeftButtonDown" Height="20" Width="20" Source="images/icon/close_32.png"  Margin="515,0,0.4,505" />
+        <Image gif:ImageBehavior.AnimatedSource="images/helo.gif" Opacity="0.8" Margin="239,232,0.4,24" />
+        
+    </Grid>
+</Window>

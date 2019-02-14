@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="DBModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="POINT">
+    <Key>
+      <PropertyRef Name="ID_ANSWER" />
+    </Key>
+    <Property Name="ID_ANSWER" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ID_Quest" Type="Int32" />
+    <Property Name="ANSWER" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="POINT1" Type="Int32" />
+    <NavigationProperty Name="QUESTION" Relationship="Self.FK__POINT__ID_Quest__1F63A897" FromRole="POINT" ToRole="QUESTION" />
+  </EntityType>
+  <EntityType Name="QUESTION">
+    <Key>
+      <PropertyRef Name="ID_QUESTION" />
+    </Key>
+    <Property Name="ID_QUESTION" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ID_TEST" Type="Int32" />
+    <Property Name="QUESTION1" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="POINT" Relationship="Self.FK__POINT__ID_Quest__1F63A897" FromRole="QUESTION" ToRole="POINT" />
+    <NavigationProperty Name="TEST" Relationship="Self.FK__QUESTION__ID_TES__1C873BEC" FromRole="QUESTION" ToRole="TEST" />
+  </EntityType>
+  <EntityType Name="RESULT">
+    <Key>
+      <PropertyRef Name="ID_Result" />
+    </Key>
+    <Property Name="ID_Result" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="ID_Test" Type="Int32" />
+    <Property Name="RESULT1" Type="Int32" />
+    <Property Name="RESULT2" Type="Int32" />
+    <Property Name="TEXT_RESULT" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="TEST" Relationship="Self.FK__RESULT__ID_Test__22401542" FromRole="RESULT" ToRole="TEST" />
+  </EntityType>
+  <EntityType Name="TEST">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="NAME_TEST" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="AUTHOR" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="QUESTION" Relationship="Self.FK__QUESTION__ID_TES__1C873BEC" FromRole="TEST" ToRole="QUESTION" />
+    <NavigationProperty Name="RESULT" Relationship="Self.FK__RESULT__ID_Test__22401542" FromRole="TEST" ToRole="RESULT" />
+    <NavigationProperty Name="USER" Relationship="Self.FK__TEST__AUTHOR__18B6AB08" FromRole="TEST" ToRole="USER" />
+  </EntityType>
+  <EntityType Name="USER">
+    <Key>
+      <PropertyRef Name="LOGIN" />
+    </Key>
+    <Property Name="LOGIN" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="PASSWORD" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="ACCESS" Type="Int32" />
+    <NavigationProperty Name="TEST" Relationship="Self.FK__TEST__AUTHOR__18B6AB08" FromRole="USER" ToRole="TEST" />
+  </EntityType>
+  <Association Name="FK__POINT__ID_Quest__1F63A897">
+    <End Role="QUESTION" Type="Self.QUESTION" Multiplicity="0..1" />
+    <End Role="POINT" Type="Self.POINT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="QUESTION">
+        <PropertyRef Name="ID_QUESTION" />
+      </Principal>
+      <Dependent Role="POINT">
+        <PropertyRef Name="ID_Quest" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__QUESTION__ID_TES__1C873BEC">
+    <End Role="TEST" Type="Self.TEST" Multiplicity="0..1" />
+    <End Role="QUESTION" Type="Self.QUESTION" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TEST">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="QUESTION">
+        <PropertyRef Name="ID_TEST" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__RESULT__ID_Test__22401542">
+    <End Role="TEST" Type="Self.TEST" Multiplicity="0..1" />
+    <End Role="RESULT" Type="Self.RESULT" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TEST">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="RESULT">
+        <PropertyRef Name="ID_Test" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__TEST__AUTHOR__18B6AB08">
+    <End Role="USER" Type="Self.USER" Multiplicity="0..1" />
+    <End Role="TEST" Type="Self.TEST" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="USER">
+        <PropertyRef Name="LOGIN" />
+      </Principal>
+      <Dependent Role="TEST">
+        <PropertyRef Name="AUTHOR" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="DBEntities2" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="POINT" EntityType="Self.POINT" />
+    <EntitySet Name="QUESTION" EntityType="Self.QUESTION" />
+    <EntitySet Name="RESULT" EntityType="Self.RESULT" />
+    <EntitySet Name="TEST" EntityType="Self.TEST" />
+    <EntitySet Name="USER" EntityType="Self.USER" />
+    <AssociationSet Name="FK__POINT__ID_Quest__1F63A897" Association="Self.FK__POINT__ID_Quest__1F63A897">
+      <End Role="QUESTION" EntitySet="QUESTION" />
+      <End Role="POINT" EntitySet="POINT" />
+    </AssociationSet>
+    <AssociationSet Name="FK__QUESTION__ID_TES__1C873BEC" Association="Self.FK__QUESTION__ID_TES__1C873BEC">
+      <End Role="TEST" EntitySet="TEST" />
+      <End Role="QUESTION" EntitySet="QUESTION" />
+    </AssociationSet>
+    <AssociationSet Name="FK__RESULT__ID_Test__22401542" Association="Self.FK__RESULT__ID_Test__22401542">
+      <End Role="TEST" EntitySet="TEST" />
+      <End Role="RESULT" EntitySet="RESULT" />
+    </AssociationSet>
+    <AssociationSet Name="FK__TEST__AUTHOR__18B6AB08" Association="Self.FK__TEST__AUTHOR__18B6AB08">
+      <End Role="USER" EntitySet="USER" />
+      <End Role="TEST" EntitySet="TEST" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

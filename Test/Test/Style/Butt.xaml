@@ -1,0 +1,181 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:local="clr-namespace:Test">
+
+    <Style x:Key="zzzz"  TargetType="{x:Type Button}" >
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button" >
+                    <Grid>
+                        <Label Content="Add question" Foreground="White"  HorizontalAlignment="Center"  VerticalAlignment="Center" FontFamily="Impact" Width="126"/>
+                        <Rectangle Stroke="White" />
+                        <Rectangle Stroke="{x:Static SystemColors.HighlightBrush }" 
+                             Fill="#841284" >
+                            <Rectangle.OpacityMask>
+                                <LinearGradientBrush x:Name="HighlightGradient"
+                                StartPoint="0,0" EndPoint="1,1" SpreadMethod="Reflect" Opacity="0.4" >
+                                    <GradientStop Color="White" Offset="0"/>
+                                    <GradientStop Color="Transparent" Offset="0"/>
+                                </LinearGradientBrush>
+                            </Rectangle.OpacityMask>
+                        </Rectangle>
+                        <Path Stroke="White"/>
+                    </Grid>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Trigger.EnterActions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation
+                                        Storyboard.TargetName="HighlightGradient"
+                                        Storyboard.TargetProperty="GradientStops[0].Offset"
+                                        To="1" Duration="0:0:0.4">
+                                        </DoubleAnimation>
+                                        <DoubleAnimation
+                                        Storyboard.TargetName="HighlightGradient"
+                                        Storyboard.TargetProperty="GradientStops[1].Offset"
+                                        To="1" Duration="0:0:0.3"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </Trigger.EnterActions>
+                            <Trigger.ExitActions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation
+                                        Storyboard.TargetName="HighlightGradient" 
+                                        Storyboard.TargetProperty="GradientStops[0].Offset" 
+                                        To="0" Duration="0:0:0.2">
+                                        </DoubleAnimation>
+                                        <DoubleAnimation
+                                        Storyboard.TargetName="HighlightGradient"
+                                        Storyboard.TargetProperty="GradientStops[1].Offset"
+                                        To="0" Duration="0:0:0.2"/>
+
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </Trigger.ExitActions>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+    
+    <Style x:Key="zzz"  TargetType="{x:Type Button}" >
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button" >
+                    <Grid>
+                        <Label Content="Create" Foreground="White"  HorizontalAlignment="Center"  VerticalAlignment="Center" FontFamily="Impact" Width="126"/>
+                        <Rectangle Stroke="White" />
+                        <Rectangle Stroke="{x:Static SystemColors.HighlightBrush }" 
+                             Fill="#841284" >
+                            <Rectangle.OpacityMask>
+                                <LinearGradientBrush x:Name="HighlightGradient"
+                                StartPoint="0,0" EndPoint="1,1" SpreadMethod="Reflect" Opacity="0.4" >
+                                    <GradientStop Color="White" Offset="0"/>
+                                    <GradientStop Color="Transparent" Offset="0"/>
+                                </LinearGradientBrush>
+                            </Rectangle.OpacityMask>
+                        </Rectangle>
+                        <Path Stroke="White"/>
+                    </Grid>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Trigger.EnterActions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation
+                                        Storyboard.TargetName="HighlightGradient"
+                                        Storyboard.TargetProperty="GradientStops[0].Offset"
+                                        To="1" Duration="0:0:0.4">
+                                        </DoubleAnimation>
+                                        <DoubleAnimation
+                                        Storyboard.TargetName="HighlightGradient"
+                                        Storyboard.TargetProperty="GradientStops[1].Offset"
+                                        To="1" Duration="0:0:0.3"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </Trigger.EnterActions>
+                            <Trigger.ExitActions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation
+                                        Storyboard.TargetName="HighlightGradient" 
+                                        Storyboard.TargetProperty="GradientStops[0].Offset" 
+                                        To="0" Duration="0:0:0.2">
+                                        </DoubleAnimation>
+                                        <DoubleAnimation
+                                        Storyboard.TargetName="HighlightGradient"
+                                        Storyboard.TargetProperty="GradientStops[1].Offset"
+                                        To="0" Duration="0:0:0.2"/>
+
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </Trigger.ExitActions>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+
+    <Style x:Key="zz"  TargetType="{x:Type Button}" >
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="Button" >
+                    <Grid>
+                        <Label Content="Add result" Padding="40"  Foreground="White"  HorizontalAlignment="Center" FontFamily="Impact"/>
+                        <Rectangle Stroke="White" />
+                        <Rectangle Stroke="{x:Static SystemColors.HighlightBrush }" 
+                             Fill="#841284" >
+                            <Rectangle.OpacityMask>
+                                <LinearGradientBrush x:Name="HighlightGradient"
+                                StartPoint="0,0" EndPoint="1,1" SpreadMethod="Reflect" Opacity="0.4" >
+                                    <GradientStop Color="White" Offset="0"/>
+                                    <GradientStop Color="Transparent" Offset="0"/>
+                                </LinearGradientBrush>
+                            </Rectangle.OpacityMask>
+                        </Rectangle>
+                        <Path Stroke="White"/>
+                    </Grid>
+                    <ControlTemplate.Triggers>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Trigger.EnterActions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation
+                                        Storyboard.TargetName="HighlightGradient"
+                                        Storyboard.TargetProperty="GradientStops[0].Offset"
+                                        To="1" Duration="0:0:0.4">
+                                        </DoubleAnimation>
+                                        <DoubleAnimation
+                                        Storyboard.TargetName="HighlightGradient"
+                                        Storyboard.TargetProperty="GradientStops[1].Offset"
+                                        To="1" Duration="0:0:0.3"/>
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </Trigger.EnterActions>
+                            <Trigger.ExitActions>
+                                <BeginStoryboard>
+                                    <Storyboard>
+                                        <DoubleAnimation
+                                        Storyboard.TargetName="HighlightGradient" 
+                                        Storyboard.TargetProperty="GradientStops[0].Offset" 
+                                        To="0" Duration="0:0:0.2">
+                                        </DoubleAnimation>
+                                        <DoubleAnimation
+                                        Storyboard.TargetName="HighlightGradient"
+                                        Storyboard.TargetProperty="GradientStops[1].Offset"
+                                        To="0" Duration="0:0:0.2"/>
+
+                                    </Storyboard>
+                                </BeginStoryboard>
+                            </Trigger.ExitActions>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
+</ResourceDictionary>

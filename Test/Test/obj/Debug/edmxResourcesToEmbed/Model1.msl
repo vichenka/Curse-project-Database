@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище DBModelContainer" CdmEntityContainer="DBEntities2">
+    <EntitySetMapping Name="POINT">
+      <EntityTypeMapping TypeName="DBModel.POINT">
+        <MappingFragment StoreEntitySet="POINT">
+          <ScalarProperty Name="ID_ANSWER" ColumnName="ID_ANSWER" />
+          <ScalarProperty Name="ID_Quest" ColumnName="ID_Quest" />
+          <ScalarProperty Name="ANSWER" ColumnName="ANSWER" />
+          <ScalarProperty Name="POINT1" ColumnName="POINT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="QUESTION">
+      <EntityTypeMapping TypeName="DBModel.QUESTION">
+        <MappingFragment StoreEntitySet="QUESTION">
+          <ScalarProperty Name="ID_QUESTION" ColumnName="ID_QUESTION" />
+          <ScalarProperty Name="ID_TEST" ColumnName="ID_TEST" />
+          <ScalarProperty Name="QUESTION1" ColumnName="QUESTION" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="RESULT">
+      <EntityTypeMapping TypeName="DBModel.RESULT">
+        <MappingFragment StoreEntitySet="RESULT">
+          <ScalarProperty Name="ID_Result" ColumnName="ID_Result" />
+          <ScalarProperty Name="ID_Test" ColumnName="ID_Test" />
+          <ScalarProperty Name="RESULT1" ColumnName="RESULT1" />
+          <ScalarProperty Name="RESULT2" ColumnName="RESULT2" />
+          <ScalarProperty Name="TEXT_RESULT" ColumnName="TEXT_RESULT" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TEST">
+      <EntityTypeMapping TypeName="DBModel.TEST">
+        <MappingFragment StoreEntitySet="TEST">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="NAME_TEST" ColumnName="NAME_TEST" />
+          <ScalarProperty Name="AUTHOR" ColumnName="AUTHOR" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="USER">
+      <EntityTypeMapping TypeName="DBModel.USER">
+        <MappingFragment StoreEntitySet="USER">
+          <ScalarProperty Name="LOGIN" ColumnName="LOGIN" />
+          <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+          <ScalarProperty Name="ACCESS" ColumnName="ACCESS" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

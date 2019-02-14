@@ -1,0 +1,9 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Test.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Constr" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename="E:\РАБОЧЕЕ\2 курс 2 сем\КУРСАЧ\МОЙ РАБОЧИЙ\MyTEST\Test\Test\DB.mdf";Integrated Security=True; MultipleActiveResultSets=True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
